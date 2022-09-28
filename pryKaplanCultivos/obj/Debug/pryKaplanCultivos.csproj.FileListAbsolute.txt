@@ -1,0 +1,9 @@
+D:\Usuario\Documents\pryKaplanCultivos\obj\Debug\pryKaplanCultivos.csproj.AssemblyReference.cache
+D:\Usuario\Documents\pryKaplanCultivos\obj\Debug\pryKaplanCultivos.csproj.SuggestedBindingRedirects.cache
+D:\Usuario\Documents\pryKaplanCultivos\obj\Debug\pryKaplanCultivos.frmCultivo.resources
+D:\Usuario\Documents\pryKaplanCultivos\obj\Debug\pryKaplanCultivos.frmLocalidades.resources
+D:\Usuario\Documents\pryKaplanCultivos\obj\Debug\pryKaplanCultivos.frmPrincipal.resources
+D:\Usuario\Documents\pryKaplanCultivos\obj\Debug\pryKaplanCultivos.frmproduccion.resources
+D:\Usuario\Documents\pryKaplanCultivos\obj\Debug\pryKaplanCultivos.Properties.Resources.resources
+D:\Usuario\Documents\pryKaplanCultivos\obj\Debug\pryKaplanCultivos.csproj.GenerateResource.cache
+D:\Usuario\Documents\pryKaplanCultivos\obj\Debug\pryKaplanCultivos.csproj.CoreCompileInputs.cache
