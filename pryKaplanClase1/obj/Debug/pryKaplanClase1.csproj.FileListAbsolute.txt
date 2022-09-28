@@ -1,0 +1,12 @@
+D:\Usuario\Documents\pryKaplanClase1\obj\Debug\pryKaplanClase1.csproj.AssemblyReference.cache
+D:\Usuario\Documents\pryKaplanClase1\obj\Debug\pryKaplanClase1.csproj.SuggestedBindingRedirects.cache
+D:\Usuario\Documents\pryKaplanClase1\obj\Debug\pryKaplanClase1.frmClientes.resources
+D:\Usuario\Documents\pryKaplanClase1\obj\Debug\pryKaplanClase1.Properties.Resources.resources
+D:\Usuario\Documents\pryKaplanClase1\obj\Debug\pryKaplanClase1.csproj.GenerateResource.cache
+D:\Usuario\Documents\pryKaplanClase1\obj\Debug\pryKaplanClase1.csproj.CoreCompileInputs.cache
+D:\Usuario\Documents\pryKaplanClase1\obj\Debug\pryKaplanClase1.Consultaclientes.resources
+D:\Usuario\Documents\pryKaplanClase1\obj\Debug\pryKaplanClase1.frmConsultasVenta.resources
+D:\Usuario\Documents\pryKaplanClase1\obj\Debug\pryKaplanClase1.frmConsultaVendedor.resources
+D:\Usuario\Documents\pryKaplanClase1\obj\Debug\pryKaplanClase1.frmMenu.resources
+D:\Usuario\Documents\pryKaplanClase1\obj\Debug\pryKaplanClase1.frmVendedor.resources
+D:\Usuario\Documents\pryKaplanClase1\obj\Debug\pryKaplanClase1.Ventas.resources
